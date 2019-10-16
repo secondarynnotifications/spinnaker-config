@@ -120,3 +120,37 @@ kubernetes:
     oAuthScopes: []
     providerVersion: V2
     requiredGroupMembership: []
+  - kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1477340347-kubecfg-jasmeet-reltio
+    liveManifestCalls: false
+    metrics: false
+    name: test-8
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    onlySpinnakerManaged: false
+    oAuthScopes: []
+    providerVersion: V2
+    requiredGroupMembership: []
+  - kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1477340347-kubecfg-jasmeet-reltio
+    liveManifestCalls: false
+    metrics: false
+    name: test-9
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    onlySpinnakerManaged: false
+    oAuthScopes: []
+    providerVersion: V2
+    requiredGroupMembership: []
