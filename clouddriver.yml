@@ -4,7 +4,7 @@ kubernetes:
   - kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1601495258-kubecfg-jasmeet-spin
     liveManifestCalls: false
     metrics: false
-    name: test-file-name
+    name: test2
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
