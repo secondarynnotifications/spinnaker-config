@@ -1,7 +1,7 @@
 kubernetes:
   enabled: true
   accounts:
-  - kubeconfigFile: /home/spinnaker/.kube/demo_config
+  - kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1601495258-kubecfg-jasmeet-spin
     liveManifestCalls: false
     metrics: false
     name: added-from-api-1
